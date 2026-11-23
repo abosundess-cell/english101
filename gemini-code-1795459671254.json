@@ -1,0 +1,990 @@
+{
+  "meta": {
+    "unitNumber": "8",
+    "titleEn": "Processing",
+    "titleAr": "المعالجة (Processing)",
+    "leftPageNum": "26",
+    "rightPageNum": "27",
+    "bookFooter": "Professional English in Use ICT"
+  },
+  "leftPage": [
+    {
+      "id": "sec-A",
+      "type": "section",
+      "code": "A",
+      "titleEn": "The processor",
+      "titleAr": "المعالج (The processor)",
+      "layout": "split-media",
+      "blocks": [
+        {
+          "id": "p-A1",
+          "type": "paragraph",
+          "sentences": [
+            {
+              "id": "s-A1-1",
+              "en": "The processor, also called the CPU or central processing unit, is the brain of your computer.",
+              "ar": "يُعد المعالج، والذي يُسمى أيضاً CPU أو وحدة المعالجة المركزية، بمثابة عقل جهاز الكمبيوتر الخاص بك.",
+              "tokens": [
+                { "t": "The", "ar": "الـ", "kind": "word" },
+                { "t": "processor", "ar": "المعالج", "kind": "term", "keepEn": false },
+                { "t": ",", "kind": "punct" },
+                { "t": "also", "ar": "أيضاً", "kind": "word" },
+                { "t": "called", "ar": "يُسمى", "kind": "word" },
+                { "t": "the", "ar": "الـ", "kind": "word" },
+                { "t": "CPU", "ar": "وحدة المعالجة المركزية (CPU)", "kind": "term", "keepEn": true },
+                { "t": "or", "ar": "أو", "kind": "word" },
+                { "t": "central processing unit", "ar": "وحدة المعالجة المركزية", "kind": "term", "keepEn": false },
+                { "t": ",", "kind": "punct" },
+                { "t": "is", "ar": "يكون", "kind": "word" },
+                { "t": "the", "ar": "الـ", "kind": "word" },
+                { "t": "brain", "ar": "عقل", "kind": "word" },
+                { "t": "of", "ar": "لـ", "kind": "word" },
+                { "t": "your", "ar": "الخاص بك", "kind": "word" },
+                { "t": "computer", "ar": "الكمبيوتر", "kind": "word" },
+                { "t": ".", "kind": "punct" }
+              ]
+            },
+            {
+              "id": "s-A1-2",
+              "en": "In PCs, it is built into a single chip – a small piece of silicon with a complex electrical circuit, called an integrated circuit – that executes instructions and coordinates the activities of all the other units.",
+              "ar": "في أجهزة PCs، يُبنى المعالج داخل شريحة واحدة — وهي قطعة صغيرة من السيليكون تحتوي على دائرة كهربائية معقدة تُسمى integrated circuit (الدائرة المتكاملة) — تقوم بتنفيذ التعليمات وتنسيق أنشطة جميع الوحدات الأخرى.",
+              "tokens": [
+                { "t": "In", "ar": "في", "kind": "word" },
+                { "t": "PCs", "ar": "أجهزة الكمبيوتر الشخصية (PCs)", "kind": "term", "keepEn": true },
+                { "t": ",", "kind": "punct" },
+                { "t": "it", "ar": "هو", "kind": "word" },
+                { "t": "is", "ar": "يُـ", "kind": "word" },
+                { "t": "built", "ar": "مبني", "kind": "word" },
+                { "t": "into", "ar": "داخل", "kind": "word" },
+                { "t": "a", "ar": "ـ", "kind": "word" },
+                { "t": "single", "ar": "واحدة", "kind": "word" },
+                { "t": "chip", "ar": "شريحة", "kind": "term", "keepEn": false },
+                { "t": "–", "kind": "punct" },
+                { "t": "a", "ar": "ـ", "kind": "word" },
+                { "t": "small", "ar": "صغيرة", "kind": "word" },
+                { "t": "piece", "ar": "قطعة", "kind": "word" },
+                { "t": "of", "ar": "من", "kind": "word" },
+                { "t": "silicon", "ar": "السيليكون", "kind": "term", "keepEn": false },
+                { "t": "with", "ar": "مع", "kind": "word" },
+                { "t": "a", "ar": "ـ", "kind": "word" },
+                { "t": "complex", "ar": "معقدة", "kind": "word" },
+                { "t": "electrical", "ar": "كهربائية", "kind": "word" },
+                { "t": "circuit", "ar": "دائرة", "kind": "word" },
+                { "t": ",", "kind": "punct" },
+                { "t": "called", "ar": "تُسمى", "kind": "word" },
+                { "t": "an", "ar": "ـ", "kind": "word" },
+                { "t": "integrated circuit", "ar": "الدائرة المتكاملة", "kind": "term", "keepEn": true },
+                { "t": "–", "kind": "punct" },
+                { "t": "that", "ar": "التي", "kind": "word" },
+                { "t": "executes", "ar": "تنفذ", "kind": "word" },
+                { "t": "instructions", "ar": "التعليمات", "kind": "word" },
+                { "t": "and", "ar": "و", "kind": "word" },
+                { "t": "coordinates", "ar": "تنسق", "kind": "word" },
+                { "t": "the", "ar": "الـ", "kind": "word" },
+                { "t": "activities", "ar": "أنشطة", "kind": "word" },
+                { "t": "of", "ar": "ـ", "kind": "word" },
+                { "t": "all", "ar": "جميع", "kind": "word" },
+                { "t": "the", "ar": "الـ", "kind": "word" },
+                { "t": "other", "ar": "الأخرى", "kind": "word" },
+                { "t": "units", "ar": "الوحدات", "kind": "word" },
+                { "t": ".", "kind": "punct" }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "p-A2",
+          "type": "paragraph",
+          "sentences": [
+            {
+              "id": "s-A2-1",
+              "en": "Three typical parts are:",
+              "ar": "الأجزاء الثلاثة الأساسية هي:",
+              "tokens": [
+                { "t": "Three", "ar": "ثلاثة", "kind": "word" },
+                { "t": "typical", "ar": "أساسية / نموذجية", "kind": "word" },
+                { "t": "parts", "ar": "أجزاء", "kind": "word" },
+                { "t": "are", "ar": "تكون", "kind": "word" },
+                { "t": ":", "kind": "punct" }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "list-A1",
+          "type": "list",
+          "items": [
+            {
+              "id": "li-A1-1",
+              "sentences": [
+                {
+                  "id": "s-li-A1-1",
+                  "en": "the control unit, which examines instructions from memory and executes them;",
+                  "ar": "وحدة التحكم (control unit)، التي تفحص التعليمات من الذاكرة وتنفذها؛",
+                  "tokens": [
+                    { "t": "the", "ar": "الـ", "kind": "word" },
+                    { "t": "control unit", "ar": "وحدة التحكم", "kind": "term", "keepEn": true },
+                    { "t": ",", "kind": "punct" },
+                    { "t": "which", "ar": "التي", "kind": "word" },
+                    { "t": "examines", "ar": "تفحص", "kind": "word" },
+                    { "t": "instructions", "ar": "التعليمات", "kind": "word" },
+                    { "t": "from", "ar": "من", "kind": "word" },
+                    { "t": "memory", "ar": "الذاكرة", "kind": "word" },
+                    { "t": "and", "ar": "و", "kind": "word" },
+                    { "t": "executes", "ar": "تنفذ", "kind": "word" },
+                    { "t": "them", "ar": "إياها", "kind": "word" },
+                    { "t": ";", "kind": "punct" }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "li-A1-2",
+              "sentences": [
+                {
+                  "id": "s-li-A1-2",
+                  "en": "the arithmetic and logic unit (ALU), which performs arithmetic and logical operations;",
+                  "ar": "وحدة الحساب والمنطق (ALU)، التي تجري العمليات الحسابية والمنطقية؛",
+                  "tokens": [
+                    { "t": "the", "ar": "الـ", "kind": "word" },
+                    { "t": "arithmetic and logic unit", "ar": "وحدة الحساب والمنطق", "kind": "term", "keepEn": false },
+                    { "t": "(", "kind": "punct" },
+                    { "t": "ALU", "ar": "وحدة الحساب والمنطق (ALU)", "kind": "term", "keepEn": true },
+                    { "t": ")", "kind": "punct" },
+                    { "t": ",", "kind": "punct" },
+                    { "t": "which", "ar": "التي", "kind": "word" },
+                    { "t": "performs", "ar": "تؤدي", "kind": "word" },
+                    { "t": "arithmetic", "ar": "حسابية", "kind": "word" },
+                    { "t": "and", "ar": "و", "kind": "word" },
+                    { "t": "logical", "ar": "منطقية", "kind": "word" },
+                    { "t": "operations", "ar": "عمليات", "kind": "word" },
+                    { "t": ";", "kind": "punct" }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "li-A1-3",
+              "sentences": [
+                {
+                  "id": "s-li-A1-3",
+                  "en": "the registers, high-speed units of memory used to store and control data.",
+                  "ar": "المسجلات (registers)، وهي وحدات ذاكرة عالية السرعة تُستخدم لتخزين البيانات والتحكم فيها.",
+                  "tokens": [
+                    { "t": "the", "ar": "الـ", "kind": "word" },
+                    { "t": "registers", "ar": "المسجلات", "kind": "term", "keepEn": true },
+                    { "t": ",", "kind": "punct" },
+                    { "t": "high-speed", "ar": "عالية السرعة", "kind": "word" },
+                    { "t": "units", "ar": "وحدات", "kind": "word" },
+                    { "t": "of", "ar": "من", "kind": "word" },
+                    { "t": "memory", "ar": "الذاكرة", "kind": "word" },
+                    { "t": "used", "ar": "تُستخدم", "kind": "word" },
+                    { "t": "to", "ar": "لـ", "kind": "word" },
+                    { "t": "store", "ar": "تخزين", "kind": "word" },
+                    { "t": "and", "ar": "و", "kind": "word" },
+                    { "t": "control", "ar": "التحكم في", "kind": "word" },
+                    { "t": "data", "ar": "البيانات", "kind": "word" },
+                    { "t": ".", "kind": "punct" }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "p-A3",
+          "type": "paragraph",
+          "sentences": [
+            {
+              "id": "s-A3-1",
+              "en": "The speed of a processor is measured in gigahertz (GHz).",
+              "ar": "تُقاس سرعة المعالج بوحدة الجيجاهرتز (GHz).",
+              "tokens": [
+                { "t": "The", "ar": "الـ", "kind": "word" },
+                { "t": "speed", "ar": "سرعة", "kind": "word" },
+                { "t": "of", "ar": "ـ", "kind": "word" },
+                { "t": "a", "ar": "ـ", "kind": "word" },
+                { "t": "processor", "ar": "المعالج", "kind": "word" },
+                { "t": "is", "ar": "تُـ", "kind": "word" },
+                { "t": "measured", "ar": "مقاسة", "kind": "word" },
+                { "t": "in", "ar": "بـ", "kind": "word" },
+                { "t": "gigahertz", "ar": "جيجاهرتز", "kind": "term", "keepEn": false },
+                { "t": "(", "kind": "punct" },
+                { "t": "GHz", "ar": "جيجاهرتز (GHz)", "kind": "term", "keepEn": true },
+                { "t": ")", "kind": "punct" },
+                { "t": ".", "kind": "punct" }
+              ]
+            },
+            {
+              "id": "s-A3-2",
+              "en": "Thus, a CPU running at 4 GHz can make about four thousand million calculations a second.",
+              "ar": "وبالتالي، فإن معالج CPU يعمل بسرعة 4 GHz يمكنه إجراء حوالي أربعة آلاف مليون عملية حسابية في الثانية.",
+              "tokens": [
+                { "t": "Thus", "ar": "وبالتالي", "kind": "word" },
+                { "t": ",", "kind": "punct" },
+                { "t": "a", "ar": "ـ", "kind": "word" },
+                { "t": "CPU", "ar": "وحدة المعالجة المركزية", "kind": "term", "keepEn": true },
+                { "t": "running", "ar": "يعمل", "kind": "word" },
+                { "t": "at", "ar": "بسرعة", "kind": "word" },
+                { "t": "4", "ar": "4", "kind": "word" },
+                { "t": "GHz", "ar": "جيجاهرتز", "kind": "term", "keepEn": true },
+                { "t": "can", "ar": "يستطيع", "kind": "word" },
+                { "t": "make", "ar": "إجراء", "kind": "word" },
+                { "t": "about", "ar": "حوالي", "kind": "word" },
+                { "t": "four", "ar": "أربعة", "kind": "word" },
+                { "t": "thousand", "ar": "آلاف", "kind": "word" },
+                { "t": "million", "ar": "مليون", "kind": "word" },
+                { "t": "calculations", "ar": "عمليات حسابية", "kind": "word" },
+                { "t": "a", "ar": "في الـ", "kind": "word" },
+                { "t": "second", "ar": "ثانية", "kind": "word" },
+                { "t": ".", "kind": "punct" }
+              ]
+            },
+            {
+              "id": "s-A3-3",
+              "en": "An internal clock sends out signals at fixed intervals to measure and synchronize the flow of data.",
+              "ar": "ترسل الساعة الداخلية (internal clock) إشارات على فترات زمنية ثابتة لقياس ومزامنة تدفق البيانات.",
+              "tokens": [
+                { "t": "An", "ar": "ـ", "kind": "word" },
+                { "t": "internal clock", "ar": "ساعة داخلية", "kind": "term", "keepEn": true },
+                { "t": "sends", "ar": "ترسل", "kind": "word" },
+                { "t": "out", "ar": "خارجاً", "kind": "word" },
+                { "t": "signals", "ar": "إشارات", "kind": "word" },
+                { "t": "at", "ar": "على", "kind": "word" },
+                { "t": "fixed", "ar": "ثابتة", "kind": "word" },
+                { "t": "intervals", "ar": "فترات زمنية", "kind": "word" },
+                { "t": "to", "ar": "لـ", "kind": "word" },
+                { "t": "measure", "ar": "قياس", "kind": "word" },
+                { "t": "and", "ar": "و", "kind": "word" },
+                { "t": "synchronize", "ar": "مزامنة", "kind": "word" },
+                { "t": "the", "ar": "الـ", "kind": "word" },
+                { "t": "flow", "ar": "تدفق", "kind": "word" },
+                { "t": "of", "ar": "ـ", "kind": "word" },
+                { "t": "data", "ar": "البيانات", "kind": "word" },
+                { "t": ".", "kind": "punct" }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "p-A4",
+          "type": "paragraph",
+          "sentences": [
+            {
+              "id": "s-A4-1",
+              "en": "The main circuit board is known as the motherboard.",
+              "ar": "تُعرف لوحة الدوائر الرئيسية باسم اللوحة الأم (motherboard).",
+              "tokens": [
+                { "t": "The", "ar": "الـ", "kind": "word" },
+                { "t": "main", "ar": "الرئيسية", "kind": "word" },
+                { "t": "circuit", "ar": "الدوائر", "kind": "word" },
+                { "t": "board", "ar": "لوحة", "kind": "word" },
+                { "t": "is", "ar": "تُـ", "kind": "word" },
+                { "t": "known", "ar": "معروفة", "kind": "word" },
+                { "t": "as", "ar": "باسم", "kind": "word" },
+                { "t": "the", "ar": "الـ", "kind": "word" },
+                { "t": "motherboard", "ar": "اللوحة الأم", "kind": "term", "keepEn": true },
+                { "t": ".", "kind": "punct" }
+              ]
+            },
+            {
+              "id": "s-A4-2",
+              "en": "This contains the CPU, the memory chips, expansion slots and controllers for peripherals, connected by internal buses, or paths, that carry electronic signals.",
+              "ar": "وتحتوي هذه اللوحة على وحدة CPU، وشرائح الذاكرة، وفتحات التوسعة (expansion slots)، ووحدات التحكم للأجهزة الطرفية، متصلة بواسطة نواقل داخلية (buses) أو مسارات تحمل الإشارات الإلكترونية.",
+              "tokens": [
+                { "t": "This", "ar": "هذه", "kind": "word" },
+                { "t": "contains", "ar": "تحتوي على", "kind": "word" },
+                { "t": "the", "ar": "الـ", "kind": "word" },
+                { "t": "CPU", "ar": "وحدة المعالجة المركزية", "kind": "term", "keepEn": true },
+                { "t": ",", "kind": "punct" },
+                { "t": "the", "ar": "الـ", "kind": "word" },
+                { "t": "memory", "ar": "الذاكرة", "kind": "word" },
+                { "t": "chips", "ar": "شرائح", "kind": "word" },
+                { "t": ",", "kind": "punct" },
+                { "t": "expansion slots", "ar": "فتحات التوسعة", "kind": "term", "keepEn": true },
+                { "t": "and", "ar": "و", "kind": "word" },
+                { "t": "controllers", "ar": "وحدات التحكم", "kind": "word" },
+                { "t": "for", "ar": "لـ", "kind": "word" },
+                { "t": "peripherals", "ar": "الأجهزة الطرفية", "kind": "word" },
+                { "t": ",", "kind": "punct" },
+                { "t": "connected", "ar": "متصلة", "kind": "word" },
+                { "t": "by", "ar": "بواسطة", "kind": "word" },
+                { "t": "internal", "ar": "داخلية", "kind": "word" },
+                { "t": "buses", "ar": "نواقل بيانات", "kind": "term", "keepEn": true },
+                { "t": ",", "kind": "punct" },
+                { "t": "or", "ar": "أو", "kind": "word" },
+                { "t": "paths", "ar": "مسارات", "kind": "word" },
+                { "t": ",", "kind": "punct" },
+                { "t": "that", "ar": "التي", "kind": "word" },
+                { "t": "carry", "ar": "تحمل", "kind": "word" },
+                { "t": "electronic", "ar": "إلكترونية", "kind": "word" },
+                { "t": "signals", "ar": "إشارات", "kind": "word" },
+                { "t": ".", "kind": "punct" }
+              ]
+            },
+            {
+              "id": "s-A4-3",
+              "en": "For example, the front side bus carries all data that passes from the CPU to other devices.",
+              "ar": "على سبيل المثال، يحمل الناقل الأمامي (front side bus) جميع البيانات التي تمر من CPU إلى الأجهزة الأخرى.",
+              "tokens": [
+                { "t": "For", "ar": "على", "kind": "word" },
+                { "t": "example", "ar": "سبيل المثال", "kind": "word" },
+                { "t": ",", "kind": "punct" },
+                { "t": "the", "ar": "الـ", "kind": "word" },
+                { "t": "front side bus", "ar": "الناقل الأمامي", "kind": "term", "keepEn": true },
+                { "t": "carries", "ar": "يحمل", "kind": "word" },
+                { "t": "all", "ar": "جميع", "kind": "word" },
+                { "t": "data", "ar": "البيانات", "kind": "word" },
+                { "t": "that", "ar": "التي", "kind": "word" },
+                { "t": "passes", "ar": "تمر", "kind": "word" },
+                { "t": "from", "ar": "من", "kind": "word" },
+                { "t": "the", "ar": "الـ", "kind": "word" },
+                { "t": "CPU", "ar": "المعالج", "kind": "term", "keepEn": true },
+                { "t": "to", "ar": "إلى", "kind": "word" },
+                { "t": "other", "ar": "الأخرى", "kind": "word" },
+                { "t": "devices", "ar": "الأجهزة", "kind": "word" },
+                { "t": ".", "kind": "punct" }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "p-A5",
+          "type": "paragraph",
+          "sentences": [
+            {
+              "id": "s-A5-1",
+              "en": "Expansion slots allow you to install expansion cards which provide extra functions, e.g. a video card or a modem.",
+              "ar": "تسمح لك فتحات التوسعة بتركيب بطاقات توسعة (expansion cards) توفر وظائف إضافية، مثل بطاقة الفيديو أو المودم.",
+              "tokens": [
+                { "t": "Expansion", "ar": "توسعة", "kind": "word" },
+                { "t": "slots", "ar": "فتحات", "kind": "word" },
+                { "t": "allow", "ar": "تسمح", "kind": "word" },
+                { "t": "you", "ar": "لك", "kind": "word" },
+                { "t": "to", "ar": "بـ", "kind": "word" },
+                { "t": "install", "ar": "تثبيت / تركيب", "kind": "word" },
+                { "t": "expansion cards", "ar": "بطاقات توسعة", "kind": "term", "keepEn": true },
+                { "t": "which", "ar": "التي", "kind": "word" },
+                { "t": "provide", "ar": "توفر", "kind": "word" },
+                { "t": "extra", "ar": "إضافية", "kind": "word" },
+                { "t": "functions", "ar": "وظائف", "kind": "word" },
+                { "t": ",", "kind": "punct" },
+                { "t": "e.g.", "ar": "على سبيل المثال", "kind": "word" },
+                { "t": "a", "ar": "ـ", "kind": "word" },
+                { "t": "video", "ar": "فيديو", "kind": "word" },
+                { "t": "card", "ar": "بطاقة", "kind": "word" },
+                { "t": "or", "ar": "أو", "kind": "word" },
+                { "t": "a", "ar": "ـ", "kind": "word" },
+                { "t": "modem", "ar": "مودم", "kind": "word" },
+                { "t": ".", "kind": "punct" }
+              ]
+            },
+            {
+              "id": "s-A5-2",
+              "en": "Laptops have PC cards, the size of a credit card, which add features like sound, memory and network capabilities.",
+              "ar": "تحتوي أجهزة الكمبيوتر المحمولة على بطاقات PC cards بحجم بطاقة الائتمان، تضيف ميزات مثل الصوت والذاكرة وقدرات الشبكة.",
+              "tokens": [
+                { "t": "Laptops", "ar": "أجهزة اللابتوب", "kind": "word" },
+                { "t": "have", "ar": "تملك", "kind": "word" },
+                { "t": "PC cards", "ar": "بطاقات الكمبيوتر المحمول", "kind": "term", "keepEn": true },
+                { "t": ",", "kind": "punct" },
+                { "t": "the", "ar": "الـ", "kind": "word" },
+                { "t": "size", "ar": "حجم", "kind": "word" },
+                { "t": "of", "ar": "ـ", "kind": "word" },
+                { "t": "a", "ar": "ـ", "kind": "word" },
+                { "t": "credit", "ar": "ائتمان", "kind": "word" },
+                { "t": "card", "ar": "بطاقة", "kind": "word" },
+                { "t": ",", "kind": "punct" },
+                { "t": "which", "ar": "التي", "kind": "word" },
+                { "t": "add", "ar": "تضيف", "kind": "word" },
+                { "t": "features", "ar": "ميزات", "kind": "word" },
+                { "t": "like", "ar": "مثل", "kind": "word" },
+                { "t": "sound", "ar": "الصوت", "kind": "word" },
+                { "t": ",", "kind": "punct" },
+                { "t": "memory", "ar": "الذاكرة", "kind": "word" },
+                { "t": "and", "ar": "و", "kind": "word" },
+                { "t": "network", "ar": "الشبكة", "kind": "word" },
+                { "t": "capabilities", "ar": "قدرات", "kind": "word" },
+                { "t": ".", "kind": "punct" }
+              ]
+            }
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": "med-A1",
+          "type": "media",
+          "preset": "cpu-chip",
+          "captionEn": "An Intel microprocessor chip, the nerve centre of many PCs",
+          "captionAr": "شريحة معالج دقيق من Intel، المركز العصبي للعديد من أجهزة PCs"
+        },
+        {
+          "id": "med-A2",
+          "type": "media",
+          "preset": "expansion-card",
+          "captionEn": "Fitting an expansion card",
+          "captionAr": "تركيب بطاقة توسعة"
+        }
+      ]
+    },
+    {
+      "id": "sec-B",
+      "type": "section",
+      "code": "B",
+      "titleEn": "RAM and ROM",
+      "titleAr": "الذاكرة RAM و ROM",
+      "layout": "split-media",
+      "blocks": [
+        {
+          "id": "p-B1",
+          "type": "paragraph",
+          "sentences": [
+            {
+              "id": "s-B1-1",
+              "en": "When you run a program, the CPU looks for it on the hard disk and transfers a copy into the RAM.",
+              "ar": "عند تشغيل برنامج ما، يبحث عنه المعالج CPU على القرص الصلب وينقل نسخة منه إلى ذاكرة RAM.",
+              "tokens": [
+                { "t": "When", "ar": "عندما", "kind": "word" },
+                { "t": "you", "ar": "أنت", "kind": "word" },
+                { "t": "run", "ar": "تشغل", "kind": "word" },
+                { "t": "a", "ar": "ـ", "kind": "word" },
+                { "t": "program", "ar": "برنامج", "kind": "word" },
+                { "t": ",", "kind": "punct" },
+                { "t": "the", "ar": "الـ", "kind": "word" },
+                { "t": "CPU", "ar": "المعالج", "kind": "term", "keepEn": true },
+                { "t": "looks", "ar": "يبحث", "kind": "word" },
+                { "t": "for", "ar": "عن", "kind": "word" },
+                { "t": "it", "ar": "ـه", "kind": "word" },
+                { "t": "on", "ar": "على", "kind": "word" },
+                { "t": "the", "ar": "الـ", "kind": "word" },
+                { "t": "hard disk", "ar": "القرص الصلب", "kind": "term", "keepEn": false },
+                { "t": "and", "ar": "و", "kind": "word" },
+                { "t": "transfers", "ar": "ينقل", "kind": "word" },
+                { "t": "a", "ar": "ـ", "kind": "word" },
+                { "t": "copy", "ar": "نسخة", "kind": "word" },
+                { "t": "into", "ar": "إلى داخل", "kind": "word" },
+                { "t": "the", "ar": "الـ", "kind": "word" },
+                { "t": "RAM", "ar": "ذاكرة الوصول العشوائي (RAM)", "kind": "term", "keepEn": true },
+                { "t": ".", "kind": "punct" }
+              ]
+            },
+            {
+              "id": "s-B1-2",
+              "en": "RAM (random access memory) is temporary or volatile, that is, it holds data while your PC is working on it, but loses this data when the power is switched off.",
+              "ar": "ذاكرة RAM (ذاكرة الوصول العشوائي) مؤقتة أو متطايرة (volatile)، أي أنها تحتفظ بالبيانات أثناء عمل جهاز PC عليها، لكنها تفقد هذه البيانات عند إيقاف تشغيل الطاقة.",
+              "tokens": [
+                { "t": "RAM", "ar": "ذاكرة الوصول العشوائي", "kind": "term", "keepEn": true },
+                { "t": "(", "kind": "punct" },
+                { "t": "random access memory", "ar": "ذاكرة الوصول العشوائي", "kind": "term", "keepEn": false },
+                { "t": ")", "kind": "punct" },
+                { "t": "is", "ar": "تكون", "kind": "word" },
+                { "t": "temporary", "ar": "مؤقتة", "kind": "word" },
+                { "t": "or", "ar": "أو", "kind": "word" },
+                { "t": "volatile", "ar": "متطايرة", "kind": "term", "keepEn": true },
+                { "t": ",", "kind": "punct" },
+                { "t": "that", "ar": "ذلك", "kind": "word" },
+                { "t": "is", "ar": "يعني", "kind": "word" },
+                { "t": ",", "kind": "punct" },
+                { "t": "it", "ar": "هي", "kind": "word" },
+                { "t": "holds", "ar": "تحتفظ بـ", "kind": "word" },
+                { "t": "data", "ar": "البيانات", "kind": "word" },
+                { "t": "while", "ar": "بينما", "kind": "word" },
+                { "t": "your", "ar": "الخاص بك", "kind": "word" },
+                { "t": "PC", "ar": "الكمبيوتر", "kind": "term", "keepEn": true },
+                { "t": "is", "ar": "يكون", "kind": "word" },
+                { "t": "working", "ar": "يعمل", "kind": "word" },
+                { "t": "on", "ar": "على", "kind": "word" },
+                { "t": "it", "ar": "ـها", "kind": "word" },
+                { "t": ",", "kind": "punct" },
+                { "t": "but", "ar": "لكن", "kind": "word" },
+                { "t": "loses", "ar": "تفقد", "kind": "word" },
+                { "t": "this", "ar": "هذه", "kind": "word" },
+                { "t": "data", "ar": "البيانات", "kind": "word" },
+                { "t": "when", "ar": "عندما", "kind": "word" },
+                { "t": "the", "ar": "الـ", "kind": "word" },
+                { "t": "power", "ar": "الطاقة", "kind": "word" },
+                { "t": "is", "ar": "تُـ", "kind": "word" },
+                { "t": "switched", "ar": "مُطفأة", "kind": "word" },
+                { "t": "off", "ar": "إيقاف", "kind": "word" },
+                { "t": ".", "kind": "punct" }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "p-B2",
+          "type": "paragraph",
+          "sentences": [
+            {
+              "id": "s-B2-1",
+              "en": "However, ROM (read only memory) is permanent and contains instructions needed by the CPU; the BIOS (basic input/output system) uses ROM to control communication with peripherals, e.g. disk drives.",
+              "ar": "في المقابل، فإن ذاكرة ROM (ذاكرة القراءة فقط) دائمة وتحتوي على التعليمات التي يحتاجها CPU؛ ويستخدم نظام BIOS (نظام الإدخال والإخراج الأساسي) ذاكرة ROM للتحكم في الاتصال مع الأجهزة الطرفية، مثل محركات الأقراص.",
+              "tokens": [
+                { "t": "However", "ar": "ومع ذلك / في المقابل", "kind": "word" },
+                { "t": ",", "kind": "punct" },
+                { "t": "ROM", "ar": "ذاكرة القراءة فقط (ROM)", "kind": "term", "keepEn": true },
+                { "t": "(", "kind": "punct" },
+                { "t": "read only memory", "ar": "ذاكرة القراءة فقط", "kind": "term", "keepEn": false },
+                { "t": ")", "kind": "punct" },
+                { "t": "is", "ar": "تكون", "kind": "word" },
+                { "t": "permanent", "ar": "دائمة", "kind": "word" },
+                { "t": "and", "ar": "و", "kind": "word" },
+                { "t": "contains", "ar": "تحتوي على", "kind": "word" },
+                { "t": "instructions", "ar": "التعليمات", "kind": "word" },
+                { "t": "needed", "ar": "المطلوبة", "kind": "word" },
+                { "t": "by", "ar": "بواسطة", "kind": "word" },
+                { "t": "the", "ar": "الـ", "kind": "word" },
+                { "t": "CPU", "ar": "المعالج", "kind": "term", "keepEn": true },
+                { "t": ";", "kind": "punct" },
+                { "t": "the", "ar": "الـ", "kind": "word" },
+                { "t": "BIOS", "ar": "نظام الإدخال والإخراج الأساسي", "kind": "term", "keepEn": true },
+                { "t": "(", "kind": "punct" },
+                { "t": "basic input/output system", "ar": "نظام الإدخال والإخراج الأساسي", "kind": "term", "keepEn": false },
+                { "t": ")", "kind": "punct" },
+                { "t": "uses", "ar": "يستخدم", "kind": "word" },
+                { "t": "ROM", "ar": "ذاكرة ROM", "kind": "term", "keepEn": true },
+                { "t": "to", "ar": "لـ", "kind": "word" },
+                { "t": "control", "ar": "التحكم في", "kind": "word" },
+                { "t": "communication", "ar": "الاتصال", "kind": "word" },
+                { "t": "with", "ar": "مع", "kind": "word" },
+                { "t": "peripherals", "ar": "الأجهزة الطرفية", "kind": "word" },
+                { "t": ",", "kind": "punct" },
+                { "t": "e.g.", "ar": "مثل", "kind": "word" },
+                { "t": "disk", "ar": "الأقراص", "kind": "word" },
+                { "t": "drives", "ar": "محركات", "kind": "word" },
+                { "t": ".", "kind": "punct" }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "p-B3",
+          "type": "paragraph",
+          "sentences": [
+            {
+              "id": "s-B3-1",
+              "en": "The amount of RAM determines the number of programs you can run simultaneously and how fast they operate.",
+              "ar": "تحدد سعة ذاكرة RAM عدد البرامج التي يمكنك تشغيلها في وقت واحد ومدى سرعة عملها.",
+              "tokens": [
+                { "t": "The", "ar": "الـ", "kind": "word" },
+                { "t": "amount", "ar": "كمية / سعة", "kind": "word" },
+                { "t": "of", "ar": "ـ", "kind": "word" },
+                { "t": "RAM", "ar": "الذاكرة العشوائية", "kind": "term", "keepEn": true },
+                { "t": "determines", "ar": "تحدد", "kind": "word" },
+                { "t": "the", "ar": "الـ", "kind": "word" },
+                { "t": "number", "ar": "عدد", "kind": "word" },
+                { "t": "of", "ar": "ـ", "kind": "word" },
+                { "t": "programs", "ar": "البرامج", "kind": "word" },
+                { "t": "you", "ar": "أنت", "kind": "word" },
+                { "t": "can", "ar": "تستطيع", "kind": "word" },
+                { "t": "run", "ar": "تشغيل", "kind": "word" },
+                { "t": "simultaneously", "ar": "في وقت واحد / بالتزامن", "kind": "word" },
+                { "t": "and", "ar": "و", "kind": "word" },
+                { "t": "how", "ar": "مدى / كيف", "kind": "word" },
+                { "t": "fast", "ar": "سرعة", "kind": "word" },
+                { "t": "they", "ar": "هي", "kind": "word" },
+                { "t": "operate", "ar": "تعمل", "kind": "word" },
+                { "t": ".", "kind": "punct" }
+              ]
+            },
+            {
+              "id": "s-B3-2",
+              "en": "It can be expanded by adding extra RAM chips.",
+              "ar": "ويمكن توسيعها عن طريق إضافة شرائح RAM إضافية.",
+              "tokens": [
+                { "t": "It", "ar": "هي", "kind": "word" },
+                { "t": "can", "ar": "يمكن أن", "kind": "word" },
+                { "t": "be", "ar": "تُـ", "kind": "word" },
+                { "t": "expanded", "ar": "موسّعة", "kind": "word" },
+                { "t": "by", "ar": "بواسطة", "kind": "word" },
+                { "t": "adding", "ar": "إضافة", "kind": "word" },
+                { "t": "extra", "ar": "إضافية", "kind": "word" },
+                { "t": "RAM", "ar": "ذاكرة RAM", "kind": "term", "keepEn": true },
+                { "t": "chips", "ar": "شرائح", "kind": "word" },
+                { "t": ".", "kind": "punct" }
+              ]
+            }
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": "med-B1",
+          "type": "media",
+          "preset": "ram-module",
+          "captionEn": "A RAM module",
+          "captionAr": "وحدة ذاكرة RAM"
+        }
+      ]
+    },
+    {
+      "id": "sec-C",
+      "type": "section",
+      "code": "C",
+      "titleEn": "Units of memory",
+      "titleAr": "وحدات الذاكرة (Units of memory)",
+      "layout": "split-media",
+      "blocks": [
+        {
+          "id": "p-C1",
+          "type": "paragraph",
+          "sentences": [
+            {
+              "id": "s-C1-1",
+              "en": "The electronic circuits in computers detect the difference between two states: ON (the current passes through) or OFF (the current doesn't); they represent these states as 1 or 0.",
+              "ar": "تكتشف الدوائر الإلكترونية في أجهزة الكمبيوتر الفرق بين حالتين: التشغيل ON (يمر التيار) أو الإيقاف OFF (لا يمر التيار)؛ وتمثل هذه الحالات بالرقم 1 أو 0.",
+              "tokens": [
+                { "t": "The", "ar": "الـ", "kind": "word" },
+                { "t": "electronic", "ar": "إلكترونية", "kind": "word" },
+                { "t": "circuits", "ar": "الدوائر", "kind": "word" },
+                { "t": "in", "ar": "في", "kind": "word" },
+                { "t": "computers", "ar": "أجهزة الكمبيوتر", "kind": "word" },
+                { "t": "detect", "ar": "تكتشف", "kind": "word" },
+                { "t": "the", "ar": "الـ", "kind": "word" },
+                { "t": "difference", "ar": "الفرق", "kind": "word" },
+                { "t": "between", "ar": "بين", "kind": "word" },
+                { "t": "two", "ar": "اثنتين", "kind": "word" },
+                { "t": "states", "ar": "حالات", "kind": "word" },
+                { "t": ":", "kind": "punct" },
+                { "t": "ON", "ar": "تشغيل (ON)", "kind": "term", "keepEn": true },
+                { "t": "(", "kind": "punct" },
+                { "t": "the", "ar": "الـ", "kind": "word" },
+                { "t": "current", "ar": "التيار", "kind": "word" },
+                { "t": "passes", "ar": "يمر", "kind": "word" },
+                { "t": "through", "ar": "عبر", "kind": "word" },
+                { "t": ")", "kind": "punct" },
+                { "t": "or", "ar": "أو", "kind": "word" },
+                { "t": "OFF", "ar": "إيقاف (OFF)", "kind": "term", "keepEn": true },
+                { "t": "(", "kind": "punct" },
+                { "t": "the", "ar": "الـ", "kind": "word" },
+                { "t": "current", "ar": "التيار", "kind": "word" },
+                { "t": "doesn't", "ar": "لا يفعل", "kind": "word" },
+                { "t": ")", "kind": "punct" },
+                { "t": ";", "kind": "punct" },
+                { "t": "they", "ar": "هي", "kind": "word" },
+                { "t": "represent", "ar": "تمثل", "kind": "word" },
+                { "t": "these", "ar": "هذه", "kind": "word" },
+                { "t": "states", "ar": "الحالات", "kind": "word" },
+                { "t": "as", "ar": "كـ", "kind": "word" },
+                { "t": "1", "ar": "1", "kind": "word" },
+                { "t": "or", "ar": "أو", "kind": "word" },
+                { "t": "0", "ar": "0", "kind": "word" },
+                { "t": ".", "kind": "punct" }
+              ]
+            },
+            {
+              "id": "s-C1-2",
+              "en": "Each 1 or 0 is called a binary digit, or bit.",
+              "ar": "يُسمى كل رقم 1 أو 0 رقماً ثنائياً (binary digit)، أو bit.",
+              "tokens": [
+                { "t": "Each", "ar": "كل", "kind": "word" },
+                { "t": "1", "ar": "1", "kind": "word" },
+                { "t": "or", "ar": "أو", "kind": "word" },
+                { "t": "0", "ar": "0", "kind": "word" },
+                { "t": "is", "ar": "يُـ", "kind": "word" },
+                { "t": "called", "ar": "مُسمى", "kind": "word" },
+                { "t": "a", "ar": "ـ", "kind": "word" },
+                { "t": "binary digit", "ar": "رقم ثنائي", "kind": "term", "keepEn": true },
+                { "t": ",", "kind": "punct" },
+                { "t": "or", "ar": "أو", "kind": "word" },
+                { "t": "bit", "ar": "بت (bit)", "kind": "term", "keepEn": true },
+                { "t": ".", "kind": "punct" }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "p-C2",
+          "type": "paragraph",
+          "sentences": [
+            {
+              "id": "s-C2-1",
+              "en": "Bits are grouped into eight-digit codes that typically represent characters (letters, numbers and symbols).",
+              "ar": "تُجمّع وحدات Bits في رموز مكونة من ثمانية أرقام تمثل عادةً المحارف (الحروف والأرقام والرموز).",
+              "tokens": [
+                { "t": "Bits", "ar": "البتات (Bits)", "kind": "term", "keepEn": true },
+                { "t": "are", "ar": "تُـ", "kind": "word" },
+                { "t": "grouped", "ar": "مُجمّعة", "kind": "word" },
+                { "t": "into", "ar": "في", "kind": "word" },
+                { "t": "eight-digit", "ar": "ثمانية أرقام", "kind": "word" },
+                { "t": "codes", "ar": "رموز / شفرات", "kind": "word" },
+                { "t": "that", "ar": "التي", "kind": "word" },
+                { "t": "typically", "ar": "عادةً", "kind": "word" },
+                { "t": "represent", "ar": "تمثل", "kind": "word" },
+                { "t": "characters", "ar": "المحارف / الرموز", "kind": "word" },
+                { "t": "(", "kind": "punct" },
+                { "t": "letters", "ar": "الحروف", "kind": "word" },
+                { "t": ",", "kind": "punct" },
+                { "t": "numbers", "ar": "الأرقام", "kind": "word" },
+                { "t": "and", "ar": "و", "kind": "word" },
+                { "t": "symbols", "ar": "الرموز", "kind": "word" },
+                { "t": ")", "kind": "punct" },
+                { "t": ".", "kind": "punct" }
+              ]
+            },
+            {
+              "id": "s-C2-2",
+              "en": "Eight bits together are called a byte.",
+              "ar": "تُسمى ثمانية bits مجتمعة باسم byte.",
+              "tokens": [
+                { "t": "Eight", "ar": "ثمانية", "kind": "word" },
+                { "t": "bits", "ar": "بتات", "kind": "word" },
+                { "t": "together", "ar": "معاً", "kind": "word" },
+                { "t": "are", "ar": "تُـ", "kind": "word" },
+                { "t": "called", "ar": "مُسماة", "kind": "word" },
+                { "t": "a", "ar": "ـ", "kind": "word" },
+                { "t": "byte", "ar": "بايت (byte)", "kind": "term", "keepEn": true },
+                { "t": ".", "kind": "punct" }
+              ]
+            },
+            {
+              "id": "s-C2-3",
+              "en": "For example, 01000001 is used for the character A.",
+              "ar": "على سبيل المثال، يُستخدم الرمز 01000001 لتمثيل الحرف A.",
+              "tokens": [
+                { "t": "For", "ar": "على", "kind": "word" },
+                { "t": "example", "ar": "سبيل المثال", "kind": "word" },
+                { "t": ",", "kind": "punct" },
+                { "t": "01000001", "ar": "01000001", "kind": "word" },
+                { "t": "is", "ar": "يُـ", "kind": "word" },
+                { "t": "used", "ar": "مستخدم", "kind": "word" },
+                { "t": "for", "ar": "لـ", "kind": "word" },
+                { "t": "the", "ar": "الـ", "kind": "word" },
+                { "t": "character", "ar": "الحرف / المحرف", "kind": "word" },
+                { "t": "A", "ar": "A", "kind": "word" },
+                { "t": ".", "kind": "punct" }
+              ]
+            },
+            {
+              "id": "s-C2-4",
+              "en": "Computers use a standard code called ASCII for the binary representation of characters.",
+              "ar": "تستخدم أجهزة الكمبيوتر شفرة قياسية تُسمى ASCII للتمثيل الثنائي للمحارف.",
+              "tokens": [
+                { "t": "Computers", "ar": "أجهزة الكمبيوتر", "kind": "word" },
+                { "t": "use", "ar": "تستخدم", "kind": "word" },
+                { "t": "a", "ar": "ـ", "kind": "word" },
+                { "t": "standard", "ar": "قياسية", "kind": "word" },
+                { "t": "code", "ar": "شفرة / ترميز", "kind": "word" },
+                { "t": "called", "ar": "تُسمى", "kind": "word" },
+                { "t": "ASCII", "ar": "الشفرة القياسية الأمريكية لتبادل المعلومات (ASCII)", "kind": "term", "keepEn": true },
+                { "t": "for", "ar": "لـ", "kind": "word" },
+                { "t": "the", "ar": "الـ", "kind": "word" },
+                { "t": "binary", "ar": "الثنائي", "kind": "word" },
+                { "t": "representation", "ar": "التمثيل", "kind": "word" },
+                { "t": "of", "ar": "ـ", "kind": "word" },
+                { "t": "characters", "ar": "المحارف", "kind": "word" },
+                { "t": ".", "kind": "punct" }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "p-C3",
+          "type": "paragraph",
+          "sentences": [
+            {
+              "id": "s-C3-1",
+              "en": "In order to avoid complex calculations of bytes, we use bigger units.",
+              "ar": "لتجنب الحسابات المعقدة بوحدة bytes، نستخدم وحدات أكبر.",
+              "tokens": [
+                { "t": "In", "ar": "في", "kind": "word" },
+                { "t": "order", "ar": "سبيل", "kind": "word" },
+                { "t": "to", "ar": "أن", "kind": "word" },
+                { "t": "avoid", "ar": "نتجنب", "kind": "word" },
+                { "t": "complex", "ar": "معقدة", "kind": "word" },
+                { "t": "calculations", "ar": "حسابات", "kind": "word" },
+                { "t": "of", "ar": "ـ", "kind": "word" },
+                { "t": "bytes", "ar": "البايتات", "kind": "term", "keepEn": true },
+                { "t": ",", "kind": "punct" },
+                { "t": "we", "ar": "نحن", "kind": "word" },
+                { "t": "use", "ar": "نستخدم", "kind": "word" },
+                { "t": "bigger", "ar": "أكبر", "kind": "word" },
+                { "t": "units", "ar": "وحدات", "kind": "word" },
+                { "t": ".", "kind": "punct" }
+              ]
+            },
+            {
+              "id": "s-C3-2",
+              "en": "A kilobyte (KB) is 1,024 bytes; a megabyte (MB) is 1,024 kilobytes; a gigabyte (GB) is 1,024 megabytes; a terabyte (TB) is 1,024 gigabytes.",
+              "ar": "الكيلوبايت (KB) يساوي 1,024 بايت؛ والميجابايت (MB) يساوي 1,024 كيلوبايت؛ والجيجابايت (GB) يساوي 1,024 ميجابايت؛ والتيرابايت (TB) يساوي 1,024 جيجابايت.",
+              "tokens": [
+                { "t": "A", "ar": "ـ", "kind": "word" },
+                { "t": "kilobyte", "ar": "كيلوبايت", "kind": "term", "keepEn": false },
+                { "t": "(", "kind": "punct" },
+                { "t": "KB", "ar": "كيلوبايت (KB)", "kind": "term", "keepEn": true },
+                { "t": ")", "kind": "punct" },
+                { "t": "is", "ar": "يساوي", "kind": "word" },
+                { "t": "1,024", "ar": "1,024", "kind": "word" },
+                { "t": "bytes", "ar": "بايت", "kind": "word" },
+                { "t": ";", "kind": "punct" },
+                { "t": "a", "ar": "ـ", "kind": "word" },
+                { "t": "megabyte", "ar": "ميجابايت", "kind": "term", "keepEn": false },
+                { "t": "(", "kind": "punct" },
+                { "t": "MB", "ar": "ميجابايت (MB)", "kind": "term", "keepEn": true },
+                { "t": ")", "kind": "punct" },
+                { "t": "is", "ar": "يساوي", "kind": "word" },
+                { "t": "1,024", "ar": "1,024", "kind": "word" },
+                { "t": "kilobytes", "ar": "كيلوبايت", "kind": "word" },
+                { "t": ";", "kind": "punct" },
+                { "t": "a", "ar": "ـ", "kind": "word" },
+                { "t": "gigabyte", "ar": "جيجابايت", "kind": "term", "keepEn": false },
+                { "t": "(", "kind": "punct" },
+                { "t": "GB", "ar": "جيجابايت (GB)", "kind": "term", "keepEn": true },
+                { "t": ")", "kind": "punct" },
+                { "t": "is", "ar": "يساوي", "kind": "word" },
+                { "t": "1,024", "ar": "1,024", "kind": "word" },
+                { "t": "megabytes", "ar": "ميجابايت", "kind": "word" },
+                { "t": ";", "kind": "punct" },
+                { "t": "a", "ar": "ـ", "kind": "word" },
+                { "t": "terabyte", "ar": "تيرابايت", "kind": "term", "keepEn": false },
+                { "t": "(", "kind": "punct" },
+                { "t": "TB", "ar": "تيرابايت (TB)", "kind": "term", "keepEn": true },
+                { "t": ")", "kind": "punct" },
+                { "t": "is", "ar": "يساوي", "kind": "word" },
+                { "t": "1,024", "ar": "1,024", "kind": "word" },
+                { "t": "gigabytes", "ar": "جيجابايت", "kind": "word" },
+                { "t": ".", "kind": "punct" }
+              ]
+            },
+            {
+              "id": "s-C3-3",
+              "en": "We use these units to describe the RAM memory, the operating capacity of disks and the size of a program or document.",
+              "ar": "نستخدم هذه الوحدات لوصف سعة ذاكرة RAM، والسعة التشغيلية للأقراص، وحجم البرنامج أو المستند.",
+              "tokens": [
+                { "t": "We", "ar": "نحن", "kind": "word" },
+                { "t": "use", "ar": "نستخدم", "kind": "word" },
+                { "t": "these", "ar": "هذه", "kind": "word" },
+                { "t": "units", "ar": "الوحدات", "kind": "word" },
+                { "t": "to", "ar": "لـ", "kind": "word" },
+                { "t": "describe", "ar": "وصف", "kind": "word" },
+                { "t": "the", "ar": "الـ", "kind": "word" },
+                { "t": "RAM", "ar": "ذاكرة RAM", "kind": "term", "keepEn": true },
+                { "t": "memory", "ar": "ذاكرة", "kind": "word" },
+                { "t": ",", "kind": "punct" },
+                { "t": "the", "ar": "الـ", "kind": "word" },
+                { "t": "operating", "ar": "التشغيلية", "kind": "word" },
+                { "t": "capacity", "ar": "السعة", "kind": "word" },
+                { "t": "of", "ar": "ـ", "kind": "word" },
+                { "t": "disks", "ar": "الأقراص", "kind": "word" },
+                { "t": "and", "ar": "و", "kind": "word" },
+                { "t": "the", "ar": "الـ", "kind": "word" },
+                { "t": "size", "ar": "حجم", "kind": "word" },
+                { "t": "of", "ar": "ـ", "kind": "word" },
+                { "t": "a", "ar": "ـ", "kind": "word" },
+                { "t": "program", "ar": "برنامج", "kind": "word" },
+                { "t": "or", "ar": "أو", "kind": "word" },
+                { "t": "document", "ar": "مستند", "kind": "word" },
+                { "t": ".", "kind": "punct" }
+              ]
+            }
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": "med-C1",
+          "type": "media",
+          "preset": "bit-byte-box",
+          "captionEn": "One bit / Example of a byte",
+          "captionAr": "بت واحد / مثال على بايت"
+        }
+      ]
+    }
+  ],
+  "rightPage": [
+    {
+      "id": "ex-8.1",
+      "type": "exercise",
+      "number": "8.1",
+      "instructionEn": "Look at A and B opposite. Then match the sentence beginnings (1–6) with the correct endings (a–f).",
+      "instructionAr": "انظر إلى القسمين A و B في الصفحة المقابلة، ثم طابق بدايات الجمل (1–6) مع النهايات الصحيحة (a–f).",
+      "widget": "matching",
+      "leftItems": [
+        { "num": "1", "en": "The CPU processes data and", "ar": "يعالج CPU البيانات و" },
+        { "num": "2", "en": "The control unit is the part of the CPU that", "ar": "وحدة التحكم هي الجزء من CPU الذي" },
+        { "num": "3", "en": "The arithmetic and logic unit is able to make", "ar": "تستطيع وحدة الحساب والمنطق إجراء" },
+        { "num": "4", "en": "The registers are high-speed storage", "ar": "المسجلات هي وحدات تخزين عالية السرعة" },
+        { "num": "5", "en": "Data contained in RAM is lost when", "ar": "تُفقد البيانات الموجودة في RAM عندما" },
+        { "num": "6", "en": "ROM memory can only be read:", "ar": "يمكن قراءة ذاكرة ROM فقط:" }
+      ],
+      "rightItems": [
+        { "letter": "a", "en": "areas within the CPU.", "ar": "مناطق داخل وحدة CPU." },
+        { "letter": "b", "en": "you can't make changes to it.", "ar": "لا يمكنك إجراء تغييرات عليها." },
+        { "letter": "c", "en": "controls the way instructions are executed.", "ar": "يتحكم في طريقة تنفيذ التعليمات." },
+        { "letter": "d", "en": "the computer is turned off.", "ar": "يتم إيقاف تشغيل الكمبيوتر." },
+        { "letter": "e", "en": "coordinates the other parts of the computer.", "ar": "ينسق الأجزاء الأخرى من الكمبيوتر." },
+        { "letter": "f", "en": "calculations: add, subtract, multiply and divide.", "ar": "عمليات حسابية: الجمع والطرح والضرب والقسمة." }
+      ]
+    },
+    {
+      "id": "ex-8.2",
+      "type": "exercise",
+      "number": "8.2",
+      "instructionEn": "Solve the clues and complete the puzzle with words from the opposite page.",
+      "instructionAr": "حل التلميحات وأكمل لغز الكلمات المتقاطعة بكلمات من الصفحة المقابلة.",
+      "widget": "crossword",
+      "clues": [
+        { "num": "1", "en": "Intel ............. are used in many computers.", "ar": "تُستخدم ............. من Intel في العديد من أجهزة الكمبيوتر." },
+        { "num": "2", "en": "Each 0 or 1 is called a bit, short for ............. digit.", "ar": "يُسمى كل 0 أو 1 بت، وهو اختصار لـ ............. digit." },
+        { "num": "3", "en": "Special cards can be inserted into expansion ............. .", "ar": "يمكن إدخال بطاقات خاصة في ............. التوسعة." },
+        { "num": "4", "en": "A ............. controls the timing within the PC by sending signals to synchronize its circuits and operations.", "ar": "تتحكم ............. في التوقيت داخل جهاز PC عن طريق إرسال إشارات لمزامنة دوائره وعملياته." },
+        { "num": "5", "en": "The processor speed is measured in ............. .", "ar": "تُقاس سرعة المعالج بوحدة ............. ." },
+        { "num": "6", "en": "............. carry signals between different parts of a PC.", "ar": "تحمل ............. الإشارات بين الأجزاء المختلفة لجهاز PC." },
+        { "num": "7", "en": "............. cards improve the computer's performance.", "ar": "تُحسّن بطاقات ............. من أداء الكمبيوتر." },
+        { "num": "8", "en": "The ............. uses ROM to control the input/output of data.", "ar": "يستخدم ............. ذاكرة ROM للتحكم في إدخال/إخراج البيانات." },
+        { "num": "9", "en": "The main printed circuit board is called the ............. .", "ar": "تُسمى لوحة الدوائر المطبوعة الرئيسية ............. ." },
+        { "num": "Down:", "en": "The brain of a computer", "ar": "عمودي: عقل الكمبيوتر" }
+      ],
+      "mediaPreset": "crossword-grid"
+    },
+    {
+      "id": "ex-8.3",
+      "type": "exercise",
+      "number": "8.3",
+      "instructionEn": "Read this product description and answer the questions below.",
+      "instructionAr": "اقرأ وصف المنتج هذا وأجب عن الأسئلة أدناه.",
+      "widget": "qa-with-box",
+      "questions": [
+        { "num": "1", "en": "How fast is the CPU?", "ar": "ما هي سرعة وحدة CPU؟" },
+        { "num": "2", "en": "Which term is used to describe the CPU data bus?", "ar": "ما المصطلح المستخدم لوصف ناقل بيانات CPU؟" },
+        { "num": "3", "en": "How much RAM does the computer have?", "ar": "كم تبلغ سعة ذاكرة RAM في هذا الكمبيوتر؟" },
+        { "num": "4", "en": "Can you add extra RAM chips? How many?", "ar": "هل يمكنك إضافة شرائح RAM إضافية؟ وكم عددها؟" }
+      ],
+      "specBox": {
+        "titleEn": "Processor and memory:",
+        "titleAr": "المعالج والذاكرة:",
+        "specs": [
+          "Intel Core 2 Duo processor at 2.4 GHz",
+          "533 MHz Front Side Bus",
+          "1,024 MB of RAM; can be expanded up to 4 GB",
+          "200 GB Hard disk",
+          "Double Layer DVD +/-R/RW drive",
+          "Microsoft Windows"
+        ]
+      }
+    },
+    {
+      "id": "ex-8.4",
+      "type": "exercise",
+      "number": "8.4",
+      "instructionEn": "Look at C opposite. Fill in the blanks with the correct unit of memory.",
+      "instructionAr": "انظر إلى القسم C في الصفحة المقابلة، واملأ الفراغات بوحدة الذاكرة الصحيحة.",
+      "widget": "memory-units",
+      "cards": [
+        { "num": "1", "labelEn": "One .............", "labelAr": "واحد .............", "descEn": "represents one character.", "descAr": "يمثل محرفاً واحداً.", "icon": "char" },
+        { "num": "2", "labelEn": "One .............", "labelAr": "واحد .............", "descEn": "represents 1,024 characters (about a small page of text).", "descAr": "يمثل 1,024 محرفاً (حوالي صفحة نصية صغيرة).", "icon": "page" },
+        { "num": "3", "labelEn": "One .............", "labelAr": "واحد .............", "descEn": "represents about one million characters (about the text of a small book).", "descAr": "يمثل حوالي مليون محرف (حوالي نص كتاب صغير).", "icon": "book" },
+        { "num": "4", "labelEn": "One .............", "labelAr": "واحد .............", "descEn": "represents about 1,000,000,000 characters (about 1,000 books).", "descAr": "يمثل حوالي 1,000,000,000 محرف (حوالي 1,000 كتاب).", "icon": "shelf" },
+        { "num": "5", "labelEn": "One .............", "labelAr": "واحد .............", "descEn": "represents about 1,000,000,000,000 characters (about one million books in a big library).", "descAr": "يمثل حوالي 1,000,000,000,000 محرف (حوالي مليون كتاب في مكتبة كبيرة).", "icon": "library" }
+      ]
+    },
+    {
+      "id": "footer-you-and-computers",
+      "type": "footer-box",
+      "badge": "You and computers",
+      "en": "Access the Professional English in Use ICT website at www.cambridge.org/elt/ict. Then do the activity Acronyms and abbreviations.",
+      "ar": "ادخل إلى موقع Professional English in Use ICT على الرابط www.cambridge.org/elt/ict، ثم نفّذ نشاط المختصرات والاختصارات (Acronyms and abbreviations)."
+    }
+  ]
+}
