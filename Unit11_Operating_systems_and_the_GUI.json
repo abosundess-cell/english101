@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "unitNumber": "11",
+    "titleEn": "Operating systems and the GUI",
+    "titleAr": "أنظمة التشغيل وواجهة المستخدم الرسومية",
+    "leftPageNum": "32",
+    "rightPageNum": "33",
+    "bookFooter": "Professional English in Use ICT"
+  },
+  "leftPage": [
+    {
+      "id": "sec-A",
+      "type": "section",
+      "code": "A",
+      "titleEn": "Types of software; the operating system (OS)",
+      "titleAr": "أنواع البرمجيات؛ نظام التشغيل (OS)"
+    }
+  ],
+  "rightPage": [
+    {
+      "id": "ex-11-1",
+      "type": "exercise",
+      "number": "11.1"
+    }
+  ]
+}
